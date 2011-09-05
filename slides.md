@@ -7,6 +7,13 @@ Christopher Meiklejohn
 
 !SLIDE
 
+## The Future?
+
+* Lots of momentum
+* Reference for future thinking
+
+!SLIDE
+
 ## Technologies
 
 * coffeescript
