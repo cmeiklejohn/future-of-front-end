@@ -1,0 +1,17 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bluecloth (2.1.0)
+    makers-mark (0.1.1)
+      bluecloth (>= 2.0.0)
+      nokogiri
+    nokogiri (1.5.0)
+    slidedown (0.2.0)
+      makers-mark
+      nokogiri
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  slidedown
